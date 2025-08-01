@@ -1,11 +1,11 @@
 document.addEventListener("alpine:init", () => {
   Alpine.data("products", () => ({
     items: [
-      { id: 1, name: "Coorg Arabica Roasted", img: "1.jpg", price: 45000 },
-      { id: 2, name: "Premium Coffee Beans", img: "2.jpg", price: 38000 },
-      { id: 3, name: "Robusta Coffee 250gr", img: "3.jpg", price: 32000 },
-      { id: 4, name: "Ethiopian Single Origin", img: "4.jpg", price: 52000 },
-      { id: 5, name: "Dark Roast Specialty", img: "5.jpg", price: 48000 },
+      { id: 1, name: "Coorg Arabica Roasted", Img: "1.jpg", price: 45000 },
+      { id: 2, name: "Premium Coffee Beans", Img: "2.jpg", price: 38000 },
+      { id: 3, name: "Robusta Coffee 250gr", Img: "3.jpg", price: 32000 },
+      { id: 4, name: "Ethiopian Single Origin", Img: "4.jpg", price: 52000 },
+      { id: 5, name: "Dark Roast Specialty", Img: "5.jpg", price: 48000 },
     ],
   }));
 
