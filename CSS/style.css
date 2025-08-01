@@ -378,7 +378,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url("../img/header-bg.jpeg");
+  background: url("../Img/header-bg.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -405,7 +405,7 @@ body {
   position: absolute;
   /* background: salmon; */
   inset: 0;
-  -webkit-mask-image: url("../img/header-bg.svg");
+  -webkit-mask-image: url("../Img/header-bg.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   -webkit-mask-position: center;
@@ -484,7 +484,7 @@ body {
 
 .about .row .about-img img {
   width: 100%;
-  -webkit-mask-image: url(../img/menu/splash.svg);
+  -webkit-mask-image: url(../Img/menu/splash.svg);
   -webkit-mask-size: 50%;
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
